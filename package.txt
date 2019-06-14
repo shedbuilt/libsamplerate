@@ -1,0 +1,7 @@
+NAME=libsamplerate
+VERSION=0.1.9
+REVISION=1
+SRC=http://www.mega-nerd.com/SRC/libsamplerate-0.1.9.tar.gz
+SRCMD5=2b78ae9fe63b36b9fbb6267fad93f259
+OPTIONS=(docs)
+DEFAULTS=docs
